@@ -68,8 +68,8 @@ Para visualizar o relatório:
 
 - [Mocha](https://mochajs.org/)
 - [Chai](https://www.chaijs.com/)
-- [Supertest](https://github.com/ladjs/supertest)
-- [Dotenv](https://github.com/motdotla/dotenv)
-- [Mochawesome](https://github.com/adamgruber/mochawesome)
+- [Supertest](https://www.npmjs.com/package/supertest)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Mochawesome](https://www.npmjs.com/package/mochawesome)
 
 ---
